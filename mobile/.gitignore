@@ -1,0 +1,10 @@
+node_modules/
+uploads/
+.env
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
